@@ -1,14 +1,19 @@
 # Hi, I'm Rodrigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<table>
-<tr>
-  <td valign="center">
-    🎓 I am a full-time **Fullstack web developer**.
-    🌱 I work mainly on **Javascript** and **Python**.
-    🎯 My Goal is to **create great things**.
-    ✨ I love **music, anime/comics and games**.
-</tr>
-</table>
+<ul valign="center">
+  <li>
+    🎓 I am a full-time **Fullstack web developer**
+  </li>
+  <li>
+    🌱 I work mainly on **Javascript** and **Python**
+  </li>
+  <li>
+    🎯 My Goal is to **create great things**
+  </li>
+  <li>
+    ✨ I love **music, anime/comics and games**
+  </li>
+<ul>
 
 ## Check out my Stats📈
 <p align="center">
