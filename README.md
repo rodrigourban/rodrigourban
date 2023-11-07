@@ -7,13 +7,13 @@
       🎓 I am a full-time Fullstack web developer
     </li>
     <li>
-      🌱 I work mainly on Javascript and Python
+      🌱 I focus mainly on Javascript (React) and Python (Django, Flask, FASTApi)
     </li>
     <li>
-      🎯 My Goal is to create great things
+      🎯 My Goal is to create great software that impact people lives.
     </li>
     <li>
-      ✨ I love music, anime/comics and games
+      ✨ I love music, anime/comics, reading, and working out.
     </li>
   <ul>
     <br>
@@ -22,6 +22,3 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigourban&theme=highcontrast&hide_border=true" alt="rodrigourban" />
 </p>
 
-
-## My Github activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rodrigourban&theme=dracula&hide_border=true)
